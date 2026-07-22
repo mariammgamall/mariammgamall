@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0f172a&height=220&section=header&text=Mariam%20Gamal&fontSize=48&fontColor=38bdf8&animation=twinkling&desc=Computer%20Science%20Engineer%20%7C%20Software%20Engineering%20%26%20AI&descSize=16&descAlign=50&descAlignY=72" width="100%" alt="Mariam Gamal Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Mariam%20Gamal&fontSize=45&fontColor=38bdf8" width="100%" alt="Mariam Gamal Hero Banner" />
 
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=mariammgamall&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/mariam-gamal-3b2408281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mariam-gamal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:maryamgamal188@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="./myresume/mariam_gamal_cv.pdf"><img src="https://img.shields.io/badge/📄_Resume-View_PDF-10B981?style=for-the-badge&logoColor=white" alt="Resume PDF" /></a>
+  <a href="./myresume/mariam_gamal_cv.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
 </p>
 
 <hr />
@@ -101,7 +101,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariammgamall&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Mariam's GitHub Stats" width="80%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariammgamall&show_icons=true&theme=tokyonight&hide_border=false" alt="Mariam's GitHub Stats" width="80%" />
 </div>
 
 <br />
@@ -110,7 +110,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariammgamall&theme=tokyonight&hide_border=false" alt="Mariam's GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=mariammgamall&theme=tokyonight&hide_border=false" alt="Mariam's GitHub Streak" width="80%" />
 </div>
 
 <br />
@@ -119,7 +119,7 @@
 ## 🔤 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="60%" />
 </div>
 
 <br />
@@ -128,7 +128,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariammgamall&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophies.vercel.app/?username=mariammgamall&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </div>
 
 <br />
