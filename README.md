@@ -1,18 +1,18 @@
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariammgamall&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi There! 👋</h1>
 
-<h3 align="center">Computer Science Engineer | Software Engineering & AI</h3>
+<h3 align="center">Software Engineer | Full Stack & Mobile App Developer | AI Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
 <hr />
@@ -22,7 +22,6 @@
 * 🎓 Studying **B.Sc. in Computer Science and Engineering** at **Egypt-Japan University of Science and Technology (EJUST)** (2024 – 2028).
 * 🔭 I'm currently working on **Full-Stack Web Applications & Applied AI / RAG Pipelines**
 * 🌱 I'm currently learning **Advanced Deep Learning, PyTorch, & Next.js 15 Architectures**
-* 💼 I work as a Software Development Intern at **DEPI (.NET)** and **Route Academy**
 * 💡 Passionate about **Software Engineering, Artificial Intelligence, Mobile Apps, and UI/UX**
 * 📫 How to reach me: **maryamgamal188@gmail.com**
 * 📄 Know about my experiences: [My Resume](./myresume/mariam_gamal_cv.pdf)
