@@ -1,168 +1,83 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Mariam%20Gamal&fontSize=45&fontColor=38bdf8" width="100%" alt="Mariam Gamal Hero Banner" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mariammgamall&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=mariammgamall&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </p>
-</div>
+<h1 align="center">Hi There! 👋</h1>
 
-<!-- 2. ANIMATED TYPING -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=700&lines=Computer+Science+Engineer;Software+Engineering+%26+Applied+AI;Full+Stack+Web+%26+Mobile+Developer;E-JUST+Student+(B.Sc.+CS%26E);RAG+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+<h3 align="center">Computer Science Engineer | Software Engineering & AI</h3>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
 
-<!-- 3. ABOUT ME -->
+<hr />
+
 ## 👤 About Me
 
-- 🎓 Studying **B.Sc. in Computer Science and Engineering** at **Egypt-Japan University of Science and Technology (E-JUST)** (2024 – 2028).
-- 💻 Hands-on experience in **Full Stack Web Development**, **Mobile App Development**, and **Applied AI / Machine Learning**.
-- 🤖 Built end-to-end RAG pipelines and deep learning solutions using **PyTorch**, **LangChain**, and **FAISS**.
-- 🛠️ Strong foundation in **Data Structures, Algorithms, REST API Design, OOP**, and Software Engineering best practices.
-- 💼 Currently intern at **DEPI (Full Stack .NET)** and **Route Academy (Front-End Development)**.
-- 🚀 Always learning new technologies and looking for **internships** and **open-source opportunities**.
-
-<p>
-  <a href="https://linkedin.com/in/mariam-gamal-3b2408281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mariam-gamal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:maryamgamal188@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="./myresume/mariam_gamal_cv.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
-</p>
+* 🎓 Studying **B.Sc. in Computer Science and Engineering** at **Egypt-Japan University of Science and Technology (EJUST)** (2024 – 2028).
+* 🔭 I'm currently working on **Full-Stack Web Applications & Applied AI / RAG Pipelines**
+* 🌱 I'm currently learning **Advanced Deep Learning, PyTorch, & Next.js 15 Architectures**
+* 💼 I work as a Software Development Intern at **DEPI (.NET)** and **Route Academy**
+* 💡 Passionate about **Software Engineering, Artificial Intelligence, Mobile Apps, and UI/UX**
+* 📫 How to reach me: **maryamgamal188@gmail.com**
+* 📄 Know about my experiences: [My Resume](./myresume/mariam_gamal_cv.pdf)
+* 🌐 Check out my portfolio: [https://mariam-gamal-portfolio.vercel.app/](https://mariam-gamal-portfolio.vercel.app/)
 
 <hr />
 
-<!-- 4. TECH STACK -->
-## 💻 Tech Stack
+<h2 align="center">🌟 Connect with me 🌟</h2>
 
-### 🚀 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 🌐 Web & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
-</p>
-
-### 🗄️ Databases & ORM
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
-
-### 🛠️ Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<br />
-
-<div align="center">
-  <p><b>⚡ Interactive Skills Grid ⚡</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,react,nextjs,express,nodejs,flask,tailwind,bootstrap,mongodb,mysql,postgres,pytorch,git,github,vscode,figma,androidstudio,docker&perline=12" alt="Skill Icons Wall" />
-  </a>
-</div>
-
-<hr />
-
-<!-- 5. GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariammgamall&show_icons=true&theme=tokyonight&hide_border=false" alt="Mariam's GitHub Stats" width="80%" />
-</div>
-
-<br />
-
-<!-- 6. GITHUB STREAK -->
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mariammgamall&theme=tokyonight&hide_border=false" alt="Mariam's GitHub Streak" width="80%" />
-</div>
-
-<br />
-
-<!-- 7. TOP LANGUAGES -->
-## 🔤 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="60%" />
-</div>
-
-<br />
-
-<!-- 8. GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=mariammgamall&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</div>
-
-<br />
-
-<!-- 9. CONTRIBUTION GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariammgamall&theme=react&hide_border=false" alt="Contribution Graph" width="100%" />
-</div>
-
-<hr />
-
-<!-- 10. CONNECT WITH ME -->
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/mariam-gamal-3b2408281">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mariam-gamal-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
+<p align="center">
   <a href="mailto:maryamgamal188@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
+  <a href="https://linkedin.com/in/mariam-gamal-3b2408281">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="https://github.com/mariammgamall">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="./myresume/mariam_gamal_cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  &nbsp;
+  <a href="https://mariam-gamal-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+<hr />
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,react,nextjs,express,nodejs,flask,tailwind,bootstrap,mongodb,mysql,postgres,pytorch,git,github,vscode,figma,androidstudio,docker&perline=12" alt="Languages-Frameworks-Tools" />
+  </a>
+</p>
+
+<hr />
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mariammgamall&theme=dark" alt="Mariam's Streak" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariammgamall&show_icons=true&theme=dark" alt="Mariam's Stats" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=dark" alt="Most Used Languages" width="60%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariammgamall&theme=react&hide_border=false" alt="Mariam's Contribution Graph" width="100%" />
 </div>
