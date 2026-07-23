@@ -44,6 +44,14 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
+  <a href="https://www.facebook.com/share/1LNEHhSJvP/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mariammgamalll?utm_source=qr">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
   <a href="https://mariam-gamal-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
