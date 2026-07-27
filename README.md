@@ -74,13 +74,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mariammgamall&theme=dark" alt="Mariam's Streak" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariammgamall&show_icons=true&theme=dark" alt="Mariam's Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariammgamall&show_icons=true&theme=dark&cache_seconds=1800" alt="Mariam's Stats" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=dark" alt="Most Used Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mariammgamall&layout=compact&theme=dark&cache_seconds=1800" alt="Most Used Languages" width="60%" />
 </div>
 
 <br />
