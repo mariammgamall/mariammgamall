@@ -71,20 +71,19 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mariammgamall&theme=dark" alt="Mariam's Streak" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariammgamall&show_icons=true&theme=dark&cache_seconds=1800" alt="Mariam's Stats" width="48%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mariammgamall&theme=dark" alt="Mariam's Streak" height="190" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariammgamall&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Mariam's Stats" height="190" />
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mariammgamall&layout=compact&theme=dark&cache_seconds=1800" alt="Most Used Languages" width="60%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mariammgamall&layout=compact&theme=dark&hide_border=false&cache_seconds=1800" alt="Most Used Languages" width="550" />
+</p>
 
 <br />
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariammgamall&theme=react&hide_border=false" alt="Mariam's Contribution Graph" width="100%" />
-</div>
+</p>
