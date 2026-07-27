@@ -19,9 +19,9 @@
 
 ## 👤 About Me
 
-* 🎓 Studying **B.Sc. in Computer Science and Engineering** at **Egypt-Japan University of Science and Technology (EJUST)** (2024 – 2028).
-* 🔭 I'm currently working on **Full-Stack Web Applications & Applied AI / RAG Pipelines**
-* 🌱 I'm currently learning **Advanced Deep Learning, PyTorch, & Next.js 15 Architectures**
+* 🎓 Studying **B.Sc. in Computer Science and Engineering** at **Egypt-Japan University of Science and Technology (EJUST)** (2024 – Present).
+* 🔭 I'm currently working on **Full Stack Web Applications, Mobile Apps, and AI-powered Solutions**.
+* 🌱 I'm currently advancing my expertise in **Machine Learning, Deep Learning, and Large Language Models (LLMs)**.
 * 💡 Passionate about **Software Engineering, Artificial Intelligence, Mobile Apps, and UI/UX**
 * 📫 How to reach me: **maryamgamal188@gmail.com**
 * 📄 Know about my experiences: [My Resume](./myresume/mariam_gamal_cv.pdf)
