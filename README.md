@@ -19,7 +19,7 @@
 
 ## 👤 About Me
 
-* 🎓 Studying **B.Sc. in Computer Science and Engineering** at **Egypt-Japan University of Science and Technology (EJUST)** (2024 – Present).
+* 🎓 Studying **B.Sc. in Computer Science Engineering** at **Egypt-Japan University of Science and Technology (EJUST)** (2024 – Present).
 * 🔭 I'm currently working on **Full Stack Web Applications, Mobile Apps, and AI-powered Solutions**.
 * 🌱 I'm currently advancing my expertise in **Machine Learning, Deep Learning, and Large Language Models (LLMs)**.
 * 💡 Passionate about **Software Engineering, Artificial Intelligence, Mobile Apps, and UI/UX**
