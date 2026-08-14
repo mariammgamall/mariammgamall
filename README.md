@@ -80,7 +80,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=dark&card_width=495&langs_count=8" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=dark&card_width=495&langs_count=8" alt="Most Used Languages" width="58%" />
 </div>
 
 <br />
