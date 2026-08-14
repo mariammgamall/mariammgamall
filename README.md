@@ -71,17 +71,17 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">
-  <img src="https://streak-stats.vercel.app/?user=mariammgamall&theme=dark" alt="Mariam's Streak" width="48%" />
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=mariammgamall&theme=dark" alt="Mariam's Streak" height="195" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mariammgamall&show_icons=true&theme=dark&include_all_commits=true" alt="Mariam's Stats" width="48%" />
-</div>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mariammgamall&show_icons=true&theme=dark&include_all_commits=true&card_width=495" alt="Mariam's Stats" height="195" />
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mariammgamall&layout=compact&theme=dark&card_width=495&langs_count=8" alt="Most Used Languages" height="195" />
+</p>
 
 <br />
 
