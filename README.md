@@ -86,5 +86,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariammgamall&theme=react&hide_border=false" alt="Mariam's Contribution Graph" width="100%" />
+  <img src="https://activity-graph.vercel.app/graph?username=mariammgamall&theme=react&hide_border=false" alt="Mariam's Contribution Graph" width="100%" />
 </div>
