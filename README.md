@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi There! 👋</h1>
 
-<h3 align="center">Software Engineer | Full Stack & Mobile App Developer | AI Engineer</h3>
+<h3 align="center">Software Engineer | Web & Mobile App Developer | AI Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
